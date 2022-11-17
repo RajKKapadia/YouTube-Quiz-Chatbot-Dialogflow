@@ -57,7 +57,7 @@ const quizDictionary = {
         },
         12: {
             question: ['What shape has 3 sides ?'],
-            prefferedAnswer: ['triangle'],
+            prefferedAnswer: ['triangle', 'triangl'],
             alternateAnswers: ['three sided shape'],
             
         },

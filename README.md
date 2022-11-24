@@ -2,7 +2,7 @@
 Hi everyone, I have developed a small demo of a Quiz chat-bot, you can use this to build your own quiz chat-bot.
 
 #### Youtube playlist
-You can watch a playlist explaining the work [here]().
+You can watch a playlist explaining the work [here](https://www.youtube.com/playlist?list=PL41E9cd-QxQ4_LldSl2gcx5LtC8x6QJoJ).
 
 #### What you need
 * Google Dialogflow account
